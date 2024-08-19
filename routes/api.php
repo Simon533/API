@@ -33,3 +33,4 @@ Route::delete('employee/{id}/remove',[EmployeeController::class,'remove']);
 Route::post('/student','StudentapiController@create');
 //Route::get('/student','StudentapiController@show');
 //Route::resource('student', [StudentapiController::class]);
+//Sumarry of my github APIS
